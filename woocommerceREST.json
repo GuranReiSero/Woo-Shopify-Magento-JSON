@@ -1,0 +1,149 @@
+{
+  "id": 28,
+  "name": "Test Product",
+  "slug": "test-product",
+  "permalink": "https://localhost/wpone/product/test-product/",
+  "date_created": "2023-03-24T18:17:29",
+  "date_created_gmt": "2023-03-24T18:17:29",
+  "date_modified": "2023-04-06T09:56:27",
+  "date_modified_gmt": "2023-04-06T09:56:27",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>This for that and these for those.</p>\n",
+  "short_description": "<p>This for these and that for those.</p>\n",
+  "sku": "",
+  "price": "100",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_from_gmt": null,
+  "date_on_sale_to": null,
+  "date_on_sale_to_gmt": null,
+  "on_sale": false,
+  "purchasable": true,
+  "total_sales": 0,
+  "virtual": false,
+  "downloadable": false,
+  "downloads": [],
+  "download_limit": -1,
+  "download_expiry": -1,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 100,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "low_stock_amount": null,
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "",
+  "shipping_class_id": 0,
+  "reviews_allowed": true,
+  "average_rating": "5.00",
+  "rating_count": 1,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "categories": [
+    {
+      "id": 15,
+      "name": "Uncategorized",
+      "slug": "uncategorized"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "id": 19,
+      "date_created": "2023-03-22T15:37:42",
+      "date_created_gmt": "2023-03-22T15:37:42",
+      "date_modified": "2023-03-22T15:37:42",
+      "date_modified_gmt": "2023-03-22T15:37:42",
+      "src": "https://localhost/wpone/wp-content/uploads/2023/03/thunderbolt.png",
+      "name": "thunderbolt",
+      "alt": ""
+    },
+    {
+      "id": 19,
+      "date_created": "2023-03-22T15:37:42",
+      "date_created_gmt": "2023-03-22T15:37:42",
+      "date_modified": "2023-03-22T15:37:42",
+      "date_modified_gmt": "2023-03-22T15:37:42",
+      "src": "https://localhost/wpone/wp-content/uploads/2023/03/thunderbolt.png",
+      "name": "thunderbolt",
+      "alt": ""
+    },
+    {
+      "id": 17,
+      "date_created": "2023-03-22T15:36:58",
+      "date_created_gmt": "2023-03-22T15:36:58",
+      "date_modified": "2023-03-22T15:36:58",
+      "date_modified_gmt": "2023-03-22T15:36:58",
+      "src": "https://localhost/wpone/wp-content/uploads/2023/03/game.png",
+      "name": "game",
+      "alt": ""
+    },
+    {
+      "id": 23,
+      "date_created": "2023-03-22T22:48:17",
+      "date_created_gmt": "2023-03-22T22:48:17",
+      "date_modified": "2023-03-22T22:48:17",
+      "date_modified_gmt": "2023-03-22T22:48:17",
+      "src": "https://localhost/wpone/wp-content/uploads/2023/03/hoodie-with-logo-2.jpg",
+      "name": "hoodie-with-logo-2.jpg",
+      "alt": ""
+    }
+  ],
+  "attributes": [
+    {
+      "id": 0,
+      "name": "Color",
+      "position": 0,
+      "visible": true,
+      "variation": true,
+      "options": ["Red", "Blue", "White"]
+    },
+    {
+      "id": 0,
+      "name": "Size",
+      "position": 1,
+      "visible": true,
+      "variation": true,
+      "options": ["S", "M", "L", "XL"]
+    }
+  ],
+  "default_attributes": [],
+  "variations": [29],
+  "grouped_products": [],
+  "menu_order": 0,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">KSh</span>&nbsp;100.00</bdi></span>",
+  "related_ids": [36, 35],
+  "meta_data": [],
+  "stock_status": "instock",
+  "has_options": true,
+  "_links": {
+    "self": [
+      {
+        "href": "https://localhost/wpone/wp-json/wc/v3/products/28"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://localhost/wpone/wp-json/wc/v3/products"
+      }
+    ]
+  }
+}

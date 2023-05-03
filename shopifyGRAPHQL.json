@@ -1,0 +1,103 @@
+{
+  "data": {
+    "product": {
+      "id": "gid://shopify/Product/8031976128726",
+      "title": "Shopify New Product",
+      "featuredImage": {
+        "id": "gid://shopify/ProductImage/39408322805974"
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/ProductImage/39408322805974"
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/ProductImage/39438055833814"
+            }
+          }
+        ]
+      },
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "120000.0"
+        },
+        "minVariantPrice": {
+          "amount": "120000.0"
+        }
+      },
+      "createdAt": "2023-04-06T16:25:29Z",
+      "description": "This for that and these for those.",
+      "totalInventory": 1000010,
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "displayName": "Shopify New Product - M / White",
+              "title": "M / White",
+              "price": "1200.00",
+              "id": "gid://shopify/ProductVariant/44125432938710"
+            }
+          },
+          {
+            "node": {
+              "displayName": "Shopify New Product - M / Black",
+              "title": "M / Black",
+              "price": "1200.00",
+              "id": "gid://shopify/ProductVariant/44148393902294"
+            }
+          },
+          {
+            "node": {
+              "displayName": "Shopify New Product - M / Red",
+              "title": "M / Red",
+              "price": "1200.00",
+              "id": "gid://shopify/ProductVariant/44148393935062"
+            }
+          },
+          {
+            "node": {
+              "displayName": "Shopify New Product - M / Blue",
+              "title": "M / Blue",
+              "price": "1200.00",
+              "id": "gid://shopify/ProductVariant/44148393967830"
+            }
+          },
+          {
+            "node": {
+              "displayName": "Shopify New Product - M / Green",
+              "title": "M / Green",
+              "price": "1200.00",
+              "id": "gid://shopify/ProductVariant/44148394000598"
+            }
+          }
+        ]
+      },
+      "totalVariants": 35,
+      "tracksInventory": true,
+      "options": [
+        {
+          "name": "Size",
+          "values": ["M", "S", "L", "XL", "2XL", "3XL", "4XL"]
+        },
+        {
+          "name": "Color",
+          "values": ["White", "Black", "Red", "Blue", "Green"]
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 18,
+      "actualQueryCost": 15,
+      "throttleStatus": {
+        "maximumAvailable": 1000.0,
+        "currentlyAvailable": 985,
+        "restoreRate": 50.0
+      }
+    }
+  }
+}
